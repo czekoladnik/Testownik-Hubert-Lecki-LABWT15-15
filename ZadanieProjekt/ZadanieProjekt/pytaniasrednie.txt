@@ -1,0 +1,30 @@
+Czym jest horyzont zdarzen?
+A:Specyficzne miejsce na sloncu
+B:Miejsce na orbicie Czarnej Dziury
+C:Planeta na orbicie Proxima Centauri b
+D:Miejsce na orbicie jadra atomu
+B
+Ile jest planet w ukladzie Slonecznym?
+A:8
+B:7
+C:8,5
+D:9
+A
+Ktora z planet Ukladu Slonecznego posiada najwieksza liczbe satelitow naturalnych?
+A:Ziemia
+B:Merkury
+C:Saturn
+D:Jowisz
+D
+Co to parsek?
+A:urzadzenie s³uzace do pobierania probek pylu ksiezycowego
+B:jednostka uzywana w bilogi
+C:jednostka uzywana w termodynamice
+D:jednostka uzywana w astronomi
+D
+Kim byl tworca teori heliocentryczej?
+A:Mikolaj Kopernik
+B:Ptolemeusz
+C:Stephen Hawking
+D:Sokrates
+A

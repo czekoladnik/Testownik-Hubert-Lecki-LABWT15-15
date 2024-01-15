@@ -1,0 +1,36 @@
+Jaka jest odleglosc (srednia) Ziemi od Ksiezyca
+A:384000km
+B:100000km
+C:200000m
+D:324165km
+A
+Kiedy bylo Bitwa pod Grunwaldem?
+A:1419
+B:1415
+C:1300
+D:1900
+B
+Jaka jest predkosc swiatla?
+A:500 000 km/h
+B:500 000 m/h
+C:300 000 km/h
+D:1 km/h
+C
+Czemu istnieja przyplywy i odplywy?
+A:Przez grawitacje slonca
+B:Przez Jowisza
+C:Przez Neptuna
+D:Przez Ksiezyc
+D
+Jaki jest wzor na I prawo Newtona?
+A:a=v/t
+B:a=f/m
+C:a=c/m
+D:q=a/v
+A
+Jaki jest wzor chemiczny wody?
+A:H20
+B:C40
+C:HC3
+D:B4
+A
