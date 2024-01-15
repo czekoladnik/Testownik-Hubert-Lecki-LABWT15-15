@@ -1,0 +1,8 @@
+FUNCKJE JAKIE POSIADA TESTOWNIK:
+1.Losowe losowanie liczb bez powtorzen
+2.Generowanie macierzy
+3.Zapisywanie macierzy 
+4.Mozliwosc dodawania pytan
+5.Losowanie pytan z bazy pytan
+6.Liczenie punktow
+7.Wykrywanie blednych odpowiedzi
